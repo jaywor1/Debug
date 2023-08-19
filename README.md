@@ -5,6 +5,12 @@ You can install this module by:
 ```
 pip install git+https://github.com/jaywor1/debug_messages.git
 ```
+If you are "střelec" and using arch linux you will have to add flag `--break-system-packages`
+
+```
+pip install git+https://github.com/jaywor1/debug_messages.git --break-system-packages
+```
+
 # Importing
 
 You can import this module by:
